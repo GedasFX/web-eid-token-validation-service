@@ -1,3 +1,5 @@
+Web EID Project as part as my Masters at TalTech.
+
 # web-eid-token-validation-service
 
 ```
